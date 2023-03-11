@@ -18,7 +18,6 @@ I am 26 years old. I work as a front-end developer in a company that provides it
 * Wordpress
 * Jquery
 
-
 # Experience
 
 Front-End Developer
