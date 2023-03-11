@@ -41,6 +41,7 @@ function countSymbols(str) {
 }
 
 ```
+
 # Education
 * University : Lviv institut of management , Management and Administration major
 * Courses :
